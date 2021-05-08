@@ -1,0 +1,13 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "tic.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.4.1"
+  },  "scripts": {
+    "git": "git add . && git commit -m",
+    "postgit": "git push --all"
+  }
+}
